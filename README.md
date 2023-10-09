@@ -7,7 +7,6 @@ En este repositorio se creó una simple aplicación web para exponer un servicio
 La Aplicación se encuentra desplegada en AWS en la url: [CredibancoSpringBoot-env.eba-jhijkhmh.us-east-2.elasticbeanstalk.com
 ](CredibancoSpringBoot-env.eba-jhijkhmh.us-east-2.elasticbeanstalk.com
 ), 
-* Hay una especificación OpenAPI, usando una interfaz de usuario de Swagger.
 
 ### Local
 En caso de querer desplegar la aplicacion en un entorno local, este debe contar con `Java 17` y tener Maven, adicionalemte tener el puerto **8080** habilitado en caso de tener otro puerto se puede modificar **aplication.properties**, la base de datos esta desplegada en AWS en MYSQL **(usuario de prueba)**
