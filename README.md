@@ -13,9 +13,9 @@ La Aplicación se encuentra desplegada en AWS en la url: [CredibancoSpringBoot-e
 En caso de querer desplegar la aplicacion en un entorno local, este debe contar con `Java 17` y tener Maven, adicionalemte tener el puerto **8080** habilitado en caso de tener otro puerto se puede modificar **aplication.properties**, la base de datos esta desplegada en AWS en MYSQL **(usuario de prueba)**
 
 ```
-spring.datasource.url=jdbc:mysql://database-1.c6gsc5cni4xv.us-west-2.rds.amazonaws.com:3306/aldeamo_test
+spring.datasource.url=jdbc:mysql://database-1.cx6ijbm4d3qu.us-east-2.rds.amazonaws.com:3306/credit_card_core
 spring.datasource.username=user_test
-spring.datasource.password=password
+spring.datasource.password=8y=bVDk%2fwqx]8
 ```
 * 1: Clonar el repositorio
 * 2: Acceder a el archivo clonado
