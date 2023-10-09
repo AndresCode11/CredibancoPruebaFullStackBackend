@@ -1,0 +1,11 @@
+server:
+  port: 5000
+
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: update
+  datasource:
+    url: jdbc:mysql://database-1.cx6ijbm4d3qu.us-east-2.rds.amazonaws.com:3306/credit_card_core
+    username: user_test
+    password: 8y=bVDk%2fwqx]8
